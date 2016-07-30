@@ -1,0 +1,12 @@
+{
+   "question": "age",
+   "answers" : [
+      {"answer": "51-70", "pct": 30.0 },
+      {"answer": "36-50", "pct": 35.0 },
+      {"answer": "16-35", "pct": 40.0 },
+   ],
+   "source": {
+      "name": "fake!",
+      "url": "http://bubble.kiwi/"
+   }
+}
