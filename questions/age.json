@@ -1,9 +1,14 @@
 {
    "question": "age",
    "answers" : [
-      {"answer": "51-70", "pct": 30.0 },
-      {"answer": "36-50", "pct": 35.0 },
-      {"answer": "16-35", "pct": 40.0 }
+      {"answer": "15-24", "pct": 14.0, "num" : 608253 },
+      {"answer": "25-34", "pct": 12.3, "num": 536619 },
+      {"answer": "35-44", "pct": 13.4, "num": 583794 },
+      {"answer": "45-54", "pct": 14.4, "num": 625660 },
+      {"answer": "55-64", "pct": 11.8, "num": 512770 },
+      {"answer": "65-74", "pct": 8.2, "num": 359800 },
+      {"answer": "75+", "pct": 6.1, "num": 266180 },
+
    ],
    "source": {
       "name": "Population Estimates and Projections - Statistics NZ",
