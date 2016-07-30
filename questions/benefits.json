@@ -1,0 +1,14 @@
+{
+   "question": "benefits",
+   "answers" : [
+      {"answer": "18-24", "pct": 16.2, "num": 45392},
+      {"answer": "25-39", "pct": 31.2, "num": 87336},
+      {"answer": "40-54", "pct": 30.8, "num": 86412},
+      {"answer": "55-64", "pct": 21.8, "num": 61037}
+   ],
+   "source": {
+      "name": "Characteristics of working-age recipients of main benefits",
+      "description": "Includes Jobseeker support, Sole parent support, Supported Living Payment, Youth payment/young parent payment, and other main benefits", 
+      "url": "http://www.msd.govt.nz/about-msd-and-our-work/publications-resources/statistics/benefit/index.html"
+   }
+}
