@@ -1,0 +1,16 @@
+
+{
+   "question": "active-last-7-days",
+   "answers" : [
+      {"answer": "16-24", "pct": 77.1 },
+      {"answer": "25-34", "pct": 75.0 },
+      {"answer": "35-49", "pct": 74.3 },
+      {"answer": "50-64", "pct": 74.0 },
+      {"answer": "65-74", "pct": 76.2 },
+      {"answer": "75+",   "pct": 59.4 },
+   ],
+   "source": {
+      "name": "Sport and Active Recreation in the Lives of New Zealand Adults, Sports NZ p 23",
+      "url": "http://www.sportnz.org.nz/assets/uploads/attachments/managing-sport/research/sport-and-active-recreation-in-the-lives-of-new-zealand-adults.pdf"
+   }
+}
