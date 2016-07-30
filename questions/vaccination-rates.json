@@ -1,0 +1,11 @@
+{
+   "question": "vaccination",
+   "answers" : [
+      {"answer": "would vaccinate my 8 month old", "pct": 93.7 },
+      {"answer": "would vaccinate my 8 month old", "pct": 6.3 },
+   ],
+   "source": {
+      "name": "Infant immunisation progress, Ministry of Health",
+      "url": "http://www.health.govt.nz/about-ministry/what-we-do/strategic-direction/better-public-services/infant-immunisation-progress"
+   }
+}
