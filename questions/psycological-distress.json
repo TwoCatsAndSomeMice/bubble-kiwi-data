@@ -1,0 +1,16 @@
+{
+    "question": "psycological distress",
+    "answers" : [
+	{"answer": "15-24", "pct": 6.8 },
+	{"answer": "25-34", "pct": 6.5 },
+	{"answer": "35-44", "pct": 6.3 },
+	{"answer": "45-54", "pct": 6.8 },
+	{"answer": "55-64", "pct": 5.8 },
+	{"answer": "65-74", "pct": 4.6 },
+	{"answer": "75+", "pct": 4.6 },
+    ],
+    "source": {
+	"name": "NZ Health Survey - Psychological distress in adults (prevalence) 2012/13",
+	"url": "http://figure.nz/table/sUP6ux4lany7ewmn"
+    }
+}
