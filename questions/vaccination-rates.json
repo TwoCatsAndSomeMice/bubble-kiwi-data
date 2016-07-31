@@ -2,7 +2,7 @@
    "question": "vaccination",
    "answers" : [
       {"answer": "would vaccinate my 8 month old", "pct": 93.7 },
-      {"answer": "would vaccinate my 8 month old", "pct": 6.3 },
+      {"answer": "would vaccinate my 8 month old", "pct": 6.3 }
    ],
    "source": {
       "name": "Infant immunisation progress, Ministry of Health",

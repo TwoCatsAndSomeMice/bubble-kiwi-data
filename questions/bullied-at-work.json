@@ -2,7 +2,7 @@
    "question": "bullied-at-work",
    "answers" : [
       {"answer": "have been bullied", "pct": 25.0 },
-      {"answer": "have been not bullied", "pct": 75.0 },
+      {"answer": "have been not bullied", "pct": 75.0 }
    ],
    "source": {
       "name": "Integrity and Conduct Survey 2013, State Services Commission",
