@@ -161,8 +161,8 @@
                         "label": "of you vote",
                         "footnote": "Congratulations, you may be called silent, but you have the biggest say on who is in charge."
                      },
-                     "value": "0.0002%",
                      {
+                        "value": "0.0002%",
                         "label": "are currently in jail",
                         "footnote": "That’s 100 of you"
                      },
