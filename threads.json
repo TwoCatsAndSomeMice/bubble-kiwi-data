@@ -1,7 +1,7 @@
 [
    {
-      "id":"default",
-      "label": "Default",
+      "id":"burst-your-bubble",
+      "label": "Burst your bubble!",
       "pairs": [
          {
             "question": {
@@ -40,9 +40,9 @@
                   },
                   "truth_bombs": [
                      {
-                        "value": "91%",
+                        "value": "48%",
                         "label": "of you vote",
-                        "footnote": "Which allows the 60% of voting Baby-boomers to select our parliament"
+                        "footnote": "Which allows the 83.9% of voting Baby-boomers to have more control over our parliament"
                      },
                      {
                         "value": "0.004%",
@@ -52,7 +52,7 @@
                      {
                         "value": "0.01%",
                         "label": "of you are millionaires",
-                        "footnote": "Yes. That’s 500 people the same age as you."
+                        "footnote": "[Yes. That’s 500 people the same age as you.]"
                      }
                   ],
                   "notes": [
@@ -75,9 +75,9 @@
                   },
                   "truth_bombs": [
                      {
-                        "value": "88.1%",
+                        "value": "71.7%",
                         "label": "of you vote",
-                        "footnote": "Which means you have a greater influence on our politics than Gen Xers."
+                        "footnote": "Which means you have a greater influence on our politics than Gen Yers, of whom about 48% vote"
                      },
                      {
                         "value": "0.003%",
@@ -110,7 +110,7 @@
                   },
                   "truth_bombs": [
                      {
-                        "value": "88.1%",
+                        "value": "83.9%",
                         "label": "of you vote",
                         "footnote": "Which means you have a greater influence on our politics than Gen Xers."
                      },
@@ -145,7 +145,7 @@
                   },
                   "truth_bombs": [
                      {
-                        "value": "88.1%",
+                        "value": "90.9%",
                         "label": "of you vote",
                         "footnote": "Which means you have a greater influence on our politics than Gen Xers."
                      },
@@ -203,16 +203,21 @@
             "answers": [
                {
                   "id": "none-of-the-time",
-                  "label": "You are part of <strong><abbr title=\"Generation-X\">Gen X</abbr></strong>",
+                  "label": "You are one of the <br><strong><abbr title=\"\">(X %)</abbr></strong>",
                   "chart": {
-                     "label": "like 26% of New Zealand",
+                     "label": "of Kiwis who have not fely lonely at all.",
                      "pct": 26.5
                   },
                   "truth_bombs": [
                      {
-                        "value": "91%",
-                        "label": "of you vote",
-                        "footnote": "Which allows the 60% of voting Baby-boomers to select our parliament"
+                        "value": "X%",
+                        "label": "of Generation X have felt lonely sometime in the last 4 weeks",
+                        "footnote": "The elderly are not our loneliest. Under 29s are more lonely than over 65s"
+                     },
+                     {
+                        "value": "0.8%",
+                        "label": "of Kiwis have no friends or family to talk to. That's about one in 1 in a hundred.",
+                        "footnote": "Say \"hi\" to a stranger. You may be the only person they talk to today"
                      }
                   ],
                   "notes": [
