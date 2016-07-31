@@ -136,7 +136,6 @@
              }
            ]
         },
-        ,
         {
           "id": "age-71-plus",
           "label": "You are part of <strong><abbr title=\"Silent Generation\">Silent Generation</abbr></strong>",
@@ -153,7 +152,7 @@
             {
              "value": "0.0002%",
              "label": "are currently in jail",
-             "footnote": "That’s more than Baby-boomers and Gen Xers"
+             "footnote": "That’s a lot less than other generations."
             },
             {
              "value": "0.07%",
@@ -173,7 +172,124 @@
           ]
       }
         ]
+     },
+     {
+      "question": {
+         "id": "loneliness",
+         "label": "How often have you felt lonely in the last four weeks?",
+         "options": [
+           {
+             "id": "none-of-the-time",
+             "label": "None of the time",
+             "value": "None of the time"
+           },
+           {
+             "id": "little-of-the-time",
+             "label": "A little of the time",
+             "value": "A little of the time"
+           },
+           {
+             "id": "some-of-the-time",
+             "label": "Some of the time",
+             "value": "Some of the time"
+           },
+           {
+             "id": "most-or-all-of-the-time",
+             "label": "Most/all of the time",
+             "value": "Most/all of the time"
+           }
+         ]
+      },
+      "answers": [
+         {
+           "id": "none-of-the-time",
+           "label": "You are part of <strong><abbr title=\"Generation-X\">Gen X</abbr></strong>",
+           "chart": {
+             "label": "like 26% of New Zealand",
+             "pct": 26.5
+           },
+           "truth_bombs": [
+             {
+               "value": "91%",
+               "label": "of you vote",
+               "footnote": "Which allows the 60% of voting Baby-boomers to select our parliament"
+             }
+           ],
+           "notes": [
+             {
+               "key": "..",
+               "value": ".."
+             }
+           ]
+         },
+         {
+           "id": "little-of-the-time",
+           "label": "You are part of <strong><abbr title=\"Generation-X\">Gen X</abbr></strong>",
+           "chart": {
+             "label": "like 26% of New Zealand",
+             "pct": 26.5
+           },
+           "truth_bombs": [
+             {
+               "value": "91%",
+               "label": "of you vote",
+               "footnote": "Which allows the 60% of voting Baby-boomers to select our parliament"
+             }
+           ],
+           "notes": [
+             {
+               "key": "Baby-boomers think",
+               "value": "you’re lazy, entitled and addicted to Pokemon Go"
+             }
+           ]
+        },
+        {
+          "id": "some-of-the-time",
+          "label": "You are part of <strong><abbr title=\"Generation-X\">Gen X</abbr></strong>",
+          "chart": {
+           "label": "like 26% of New Zealand",
+           "pct": 26.5
+          },
+          "truth_bombs": [
+           {
+             "value": "91%",
+             "label": "of you vote",
+             "footnote": "Which allows the 60% of voting Baby-boomers to select our parliament"
+           }
+          ],
+          "notes": [
+           {
+             "key": "Baby-boomers think",
+             "value": "you’re lazy, entitled and addicted to Pokemon Go"
+           }
+          ]
+      },
+      {
+        "id": "most-or-all-of-the-time",
+        "label": "You are part of <strong><abbr title=\"Generation-X\">Gen X</abbr></strong>",
+        "chart": {
+          "label": "like 26% of New Zealand",
+          "pct": 26.5
+        },
+        "truth_bombs": [
+          {
+            "value": "91%",
+            "label": "of you vote",
+            "footnote": "Which allows the 60% of voting Baby-boomers to select our parliament"
+          }
+        ],
+        "notes": [
+          {
+            "key": "Baby-boomers think",
+            "value": "you’re lazy, entitled and addicted to Pokemon Go"
+          }
+        ]
+     }
+
+       ]
       }
+      ]
+     }
     ]
   }
 ]
