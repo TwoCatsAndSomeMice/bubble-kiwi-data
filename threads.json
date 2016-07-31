@@ -42,17 +42,17 @@
                      {
                         "value": "48%",
                         "label": "of you vote",
-                        "footnote": "Your generation votes 15% less than your parents and 20% less than theirs. What attitude are you passing on?"
+                        "footnote": "We get that some of you can't vote yet, but that's still a dismal turnout"
                      },
                      {
                         "value": "0.004%",
                         "label": "are currently in jail",
-                        "footnote": "That's 2,850 of you."
+                        "footnote": "That is 4,900 of you"
                      },
                      {
                         "value": "$12,000",
                         "label": "is the median net worth of people your generation",
-                        "footnote": "You've had up to 3 decades in the workforce &amp; you have less than half of your parents' worth"
+                        "footnote": "The younger half of your generation only have a median net worth of $1,000."
                      }
                   ],
                   "notes": [
@@ -81,17 +81,17 @@
                      {
                         "value": "71.7%",
                         "label": "of you vote",
-                        "footnote": "Which means you have a greater influence on our politics than Gen Yers, of whom about 48% vote"
+                        "footnote": "Your generation votes 15% less than your parents and 20% less than theirs. What attitude are you passing on?"
                      },
                      {
                         "value": "0.003%",
                         "label": "are currently in jail",
-                        "footnote": "That’s more than Baby-boomers and Gen Xers"
+                        "footnote": "That's 2,850 of you"
                      },
                      {
                         "value": "$",
                         "label": "is the median net worth of people your generation",
-                        "footnote": ""
+                        "footnote": "You've had up to 3 decades in the workforce and you have less than half of your parents' net worth"
                      }
                   ],
                   "notes": [
@@ -120,7 +120,7 @@
                      {
                         "value": "83.9%",
                         "label": "of you vote",
-                        "footnote": "Which means you have a greater influence on our politics than Gen Xers."
+                        "footnote": "You like to express opinion, but your parents still have the final say (91% of them vote)"
                      },
                      {
                         "value": "0.001%",
@@ -128,9 +128,9 @@
                         "footnote": "That’s more than Baby-boomers and Gen Xers"
                      },
                      {
-                        "value": "",
+                        "value": "$250,000",
                         "label": "is the median net worth of people your generation",
-                        "footnote": ""
+                        "footnote": "You have twice as much wealth as the generation after you. Does that feel fair?"
                      }
                   ],
                   "notes": [
@@ -159,17 +159,17 @@
                      {
                         "value": "90.9%",
                         "label": "of you vote",
-                        "footnote": "Which means you have a greater influence on our politics than Gen Xers."
+                        "footnote": "Congratulations, you may be called silent, but you have the biggest say on who is in charge."
                      },
+                     "value": "0.0002%",
                      {
-                        "value": "0.0002%",
                         "label": "are currently in jail",
-                        "footnote": "That’s a lot less than other generations."
+                        "footnote": "That’s 100 of you"
                      },
                      {
-                        "value": "0.07%",
-                        "label": "of you are millionaires",
-                        "footnote": "That’s 7 times more than Gen Xers"
+                        "value": "$290,000",
+                        "label": "is the median net worth of your generation",
+                        "footnote": "You really did make life easier for your kids. Baby Boomers already have enough wealth as you."
                      }
                   ],
                   "notes": [
@@ -242,10 +242,6 @@
                      }
                   ],
                   "notes": [
-                     {
-                        "key": "..",
-                        "value": ".."
-                     }
                   ]
                },
                {
@@ -273,10 +269,6 @@
                      }
                   ],
                   "notes": [
-                     {
-                        "key": "..",
-                        "value": ".."
-                     }
                   ]
                },
                {
@@ -304,10 +296,6 @@
                      }
                   ],
                   "notes": [
-                     {
-                        "key": "Baby-boomers think",
-                        "value": "you’re lazy, entitled and addicted to Pokemon Go"
-                     }
                   ]
                },
                {
@@ -335,10 +323,6 @@
                      }
                   ],
                   "notes": [
-                     {
-                        "key": "Baby-boomers think",
-                        "value": "you’re lazy, entitled and addicted to Pokemon Go"
-                     }
                   ]
                }
 
