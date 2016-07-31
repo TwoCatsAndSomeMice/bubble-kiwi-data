@@ -52,7 +52,7 @@
                      {
                         "value": "$12,000",
                         "label": "is the median net worth of people your generation",
-                        "footnote": "The younger half of your generation only have a median net worth of $1,000."
+                        "footnote": "The younger half only have a median net worth of $1,000"
                      }
                   ],
                   "notes": [
@@ -89,7 +89,7 @@
                         "footnote": "That's 2,850 of you"
                      },
                      {
-                        "value": "$",
+                        "value": "$120,000",
                         "label": "is the median net worth of people your generation",
                         "footnote": "You've had up to 3 decades in the workforce and you have less than half of your parents' net worth"
                      }
@@ -111,7 +111,7 @@
                },
                {
                   "id": "age-51-70",
-                  "label": "You are part of the <strong>Baby Boomers</strong>!",
+                  "label": "You are part of the <strong>Baby Boomers</strong>",
                   "chart": {
                      "label": "like 23.2% of New Zealand",
                      "pct": 23.2
@@ -125,7 +125,7 @@
                      {
                         "value": "0.001%",
                         "label": "are currently in jail",
-                        "footnote": "That’s more than Baby-boomers and Gen Xers"
+                        "footnote": "That’s 1,460 of you"
                      },
                      {
                         "value": "$250,000",
@@ -159,7 +159,7 @@
                      {
                         "value": "90.9%",
                         "label": "of you vote",
-                        "footnote": "Congratulations, you may be called silent, but you have the biggest say on who is in charge."
+                        "footnote": "Congratulations, you may be called silent, but you have the biggest say on who is in charge"
                      },
                      {
                         "value": "0.0002%",
@@ -169,13 +169,13 @@
                      {
                         "value": "$290,000",
                         "label": "is the median net worth of your generation",
-                        "footnote": "You really did make life easier for your kids. Baby Boomers already have enough wealth as you."
+                        "footnote": "You really did make life easier for your kids. Baby Boomers already have as much wealth as you"
                      }
                   ],
                   "notes": [
                      {
                         "key": "Baby Boomers thinks",
-                        "value": "That they were responsible for Civil rights and rock and roll, even though that was all you"
+                        "value": "That they were responsible for Civil rights and rock and roll, even though it was all you"
                      },
                      {
                         "key": "Generation X thinks",
@@ -221,7 +221,7 @@
                   "id": "none-of-the-time",
                   "label": "You are one of the <br><strong><abbr title=\"\">67.9%</abbr></strong>",
                   "chart": {
-                     "label": "of Kiwis who have not fely lonely at all.",
+                     "label": "of Kiwis who have not felt lonely at all.",
                      "pct": 67.9
                   },
                   "truth_bombs": [
@@ -237,8 +237,8 @@
                      },
                      {
                         "value": "0%",
-                        "label": "the impact being in a relationship has on how lonely you feel.",
-                        "footnote": "Although single people do have more active social lives"
+                        "label": "is the impact being in a relationship has on how lonely you feel",
+                        "footnote": "Although single people do have more active social lives..."
                      }
                   ],
                   "notes": [
@@ -318,7 +318,7 @@
                      },
                      {
                         "value": "0%",
-                        "label": "the impact being in a relationship has on how lonely you feel.",
+                        "label": is the impact being in a relationship has on how lonely you feel",
                         "footnote": "Although single people do have more active social lives"
                      }
                   ],
