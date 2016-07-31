@@ -57,12 +57,16 @@
                   ],
                   "notes": [
                      {
-                        "key": "Baby-boomers think",
-                        "value": "you’re lazy, entitled and addicted to Pokemon Go"
+                        "key": "The Silent Generation thinks",
+                        "value": "You are just happy to accept what life hands you (or maybe that's just Kate's Grandma)"
                      },
                      {
-                        "key": "Gen Y think",
-                        "value": "you’re the last generation to be able to buy your own home"
+                        "key": "Baby-boomers think",
+                        "value": "Think you are technological whizz kids and treat you like their personal IT helpdesk"
+                     },
+                     {
+                        "key": "Generation X think",
+                        "value": "That your childhood was far too cushioned and you think you're god's gift to the world"
                      }
                   ]
                },
@@ -92,12 +96,16 @@
                   ],
                   "notes": [
                      {
-                        "key": "Baby-boomers think",
-                        "value": "your taste in music is way better than Gen Xers"
+                        "key": "The Silent Generation thinks",
+                        "value": "You are Baby Boomers"
                      },
                      {
-                        "key": "Gen Xers think",
-                        "value": "…"
+                        "key": "Baby-boomers think",
+                        "value": "Think you have it just as easy as them and you should stop complaining"
+                     },
+                     {
+                        "key": "Generation Y thinks",
+                        "value": "They will walk into an office and take your job within a week or two"
                      }
                   ]
                },
@@ -127,12 +135,16 @@
                   ],
                   "notes": [
                      {
-                        "key": "Baby-boomers think",
-                        "value": "your taste in music is way better than Gen Xers"
+                        "key": "The Silent Generation thinks",
+                        "value": "You are spoiled, disrespectful and paranoid about our government"
                      },
                      {
-                        "key": "Gen Xers think",
-                        "value": "…"
+                        "key": "Generation X thinks",
+                        "value": "That you are financially irresponsible and haven't paid your fair share of tax"
+                     },
+                     {
+                        "key": "Generation Y thinks",
+                        "value": "They are paying the price for your pensions and that you are the reason they will never be able to afford a house"
                      }
                   ]
                },
@@ -162,12 +174,16 @@
                   ],
                   "notes": [
                      {
-                        "key": "Baby-boomers think",
-                        "value": "your taste in music is way better than Gen Xers"
+                        "key": "Baby Boomers thinks",
+                        "value": "That they were responsible for Civil rights and rock and roll, even though that was all you"
                      },
                      {
-                        "key": "Gen Xers think",
-                        "value": "…"
+                        "key": "Generation X thinks",
+                        "value": "That you got married really young and are far less educated than them"
+                     },
+                     {
+                        "key": "Generation Y thinks",
+                        "value": "That most things that happened in your lifetime were ancient history until you started talking about them"
                      }
                   ]
                }
@@ -203,21 +219,26 @@
             "answers": [
                {
                   "id": "none-of-the-time",
-                  "label": "You are one of the <br><strong><abbr title=\"\">(X %)</abbr></strong>",
+                  "label": "You are one of the <br><strong><abbr title=\"\">67.9%</abbr></strong>",
                   "chart": {
                      "label": "of Kiwis who have not fely lonely at all.",
-                     "pct": 26.5
+                     "pct": 67.9
                   },
                   "truth_bombs": [
                      {
-                        "value": "X%",
-                        "label": "of Generation X have felt lonely sometime in the last 4 weeks",
+                        "value": "32.1%",
+                        "label": "of Kiwis have felt lonely sometime in the last 4 weeks",
                         "footnote": "The elderly are not our loneliest. Under 29s are more lonely than over 65s"
                      },
                      {
                         "value": "0.8%",
                         "label": "of Kiwis have no friends or family to talk to. That's about one in 1 in a hundred.",
                         "footnote": "Say \"hi\" to a stranger. You may be the only person they talk to today"
+                     },
+                     {
+                        "value": "0%",
+                        "label": "the impact being in a relationship has on how lonely you feel.",
+                        "footnote": "Although single people do have more active social lives"
                      }
                   ],
                   "notes": [
@@ -229,37 +250,57 @@
                },
                {
                   "id": "little-of-the-time",
-                  "label": "You are part of <strong><abbr title=\"Generation-X\">Gen X</abbr></strong>",
+                  "label": "You are part of <strong>20%</strong>",
                   "chart": {
-                     "label": "like 26% of New Zealand",
-                     "pct": 26.5
+                     "label": "of Kiwis who have felt lonely a little bit of the time in the last four weeks",
+                     "pct": 20.0
                   },
                   "truth_bombs": [
                      {
-                        "value": "91%",
-                        "label": "of you vote",
-                        "footnote": "Which allows the 60% of voting Baby-boomers to select our parliament"
+                        "value": "32.1%",
+                        "label": "of Kiwis have felt lonely sometime in the last 4 weeks",
+                        "footnote": "The elderly are not our loneliest. Under 29s are more lonely than over 65s"
+                     },
+                     {
+                        "value": "0.8%",
+                        "label": "of Kiwis have no friends or family to talk to. That's about one in 1 in a hundred.",
+                        "footnote": "Say \"hi\" to a stranger. You may be the only person they talk to today"
+                     },
+                     {
+                        "value": "0%",
+                        "label": "the impact being in a relationship has on how lonely you feel.",
+                        "footnote": "Although single people do have more active social lives"
                      }
                   ],
                   "notes": [
                      {
-                        "key": "Baby-boomers think",
-                        "value": "you’re lazy, entitled and addicted to Pokemon Go"
+                        "key": "..",
+                        "value": ".."
                      }
                   ]
                },
                {
                   "id": "some-of-the-time",
-                  "label": "You are part of <strong><abbr title=\"Generation-X\">Gen X</abbr></strong>",
+                  "label": "You are part of <strong>8.7%</strong>",
                   "chart": {
-                     "label": "like 26% of New Zealand",
-                     "pct": 26.5
+                     "label": "of Kiwis who have felt lonely some of the time in the last four weeks",
+                     "pct": 8.7
                   },
                   "truth_bombs": [
                      {
-                        "value": "91%",
-                        "label": "of you vote",
-                        "footnote": "Which allows the 60% of voting Baby-boomers to select our parliament"
+                        "value": "32.1%",
+                        "label": "of Kiwis have felt lonely sometime in the last 4 weeks",
+                        "footnote": "The elderly are not our loneliest. Under 29s are more lonely than over 65s"
+                     },
+                     {
+                        "value": "0.8%",
+                        "label": "of Kiwis have no friends or family to talk to. That's about one in 1 in a hundred.",
+                        "footnote": "Say \"hi\" to a stranger. You may be the only person they talk to today"
+                     },
+                     {
+                        "value": "0%",
+                        "label": "the impact being in a relationship has on how lonely you feel.",
+                        "footnote": "Although single people do have more active social lives"
                      }
                   ],
                   "notes": [
@@ -271,16 +312,26 @@
                },
                {
                   "id": "most-or-all-of-the-time",
-                  "label": "You are part of <strong><abbr title=\"Generation-X\">Gen X</abbr></strong>",
+                  "label": "You are part of <strong>3.4%</strong>",
                   "chart": {
-                     "label": "like 26% of New Zealand",
+                     "label": "of Kiwis who have felt lonely most or all of the time in the last four weeks",
                      "pct": 26.5
                   },
                   "truth_bombs": [
                      {
-                        "value": "91%",
-                        "label": "of you vote",
-                        "footnote": "Which allows the 60% of voting Baby-boomers to select our parliament"
+                        "value": "32.1%",
+                        "label": "of Kiwis have felt lonely sometime in the last 4 weeks",
+                        "footnote": "The elderly are not our loneliest. Under 29s are more lonely than over 65s"
+                     },
+                     {
+                        "value": "0.8%",
+                        "label": "of Kiwis have no friends or family to talk to. That's about one in 1 in a hundred.",
+                        "footnote": "Say \"hi\" to a stranger. You may be the only person they talk to today"
+                     },
+                     {
+                        "value": "0%",
+                        "label": "the impact being in a relationship has on how lonely you feel.",
+                        "footnote": "Although single people do have more active social lives"
                      }
                   ],
                   "notes": [
