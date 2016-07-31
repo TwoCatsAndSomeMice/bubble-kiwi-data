@@ -111,7 +111,7 @@
                },
                {
                   "id": "age-51-70",
-                  "label": "You are part of <strong><abbr title=\"Generation-X\">Gen X</abbr></strong>!",
+                  "label": "You are part of the <strong>Baby Boomers</strong>!",
                   "chart": {
                      "label": "like 23.2% of New Zealand",
                      "pct": 23.2
@@ -150,7 +150,7 @@
                },
                {
                   "id": "age-71-plus",
-                  "label": "You are part of <strong><abbr title=\"Silent Generation\">Silent Generation</abbr></strong>",
+                  "label": "You are part of the <strong>Silent Generation</strong>",
                   "chart": {
                      "label": "like 9.4% of New Zealand",
                      "pct": 9.4
